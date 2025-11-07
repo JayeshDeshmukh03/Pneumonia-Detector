@@ -1,1 +1,1 @@
-Pneumonia Detector system 
+
